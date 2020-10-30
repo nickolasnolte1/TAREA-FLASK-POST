@@ -1,0 +1,57 @@
+{
+    "headers": {
+        "0":"ID",
+        "1":"CARRERA",
+        "2":"NOMBRE", 
+        "3":"IMAGEN",
+        "4":"THUMBNAIL"
+    },
+    "data":[
+        {
+            "id": "01010",
+            "type": "Computer Science",
+            "name": "Nickolas Nolte",
+            "image":{
+                "url": "img/12-9.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":
+            {
+                "url": "images/thumbnails/12-9.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "id": "02020",
+            "type": "Derecho",
+            "name": "Sofia Montenegro",
+            "image":{
+                "url": "img/135-4.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/135-4.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "id": "03030",
+            "type": "Administración",
+            "name": "Jurgen Klopp",
+            "image":{
+                "url": "img/122-8.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/122-8.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        }
+    ]
+}
